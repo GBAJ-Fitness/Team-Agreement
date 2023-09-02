@@ -68,3 +68,12 @@ How many people must review a PR? 2
 Who merges PRs? Brian 
 How often will you merge? Often
 How will you communicate that it’s time to merge? By using slack
+
+
+## Wireframe
+
+![Screen Shot 2023-09-02 at 11 47 44 AM](https://github.com/GBAJ-Fitness/Team-Agreement/assets/128838992/192767dc-f85f-4598-8801-4bf4384e2630)
+
+## User Story
+
+As a user, I want my client to be able to read about the company to get an idea of whether or not the gym will be a fit for them. Having a good experience with the site in terms of being able to contact us will be helpful so that we can assist them with confirming their membership with us. 
