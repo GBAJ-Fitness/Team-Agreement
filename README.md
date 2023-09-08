@@ -72,7 +72,7 @@ How will you communicate that it’s time to merge? By using slack
 
 ## Wireframe
 
-![Screen Shot 2023-09-02 at 11 47 44 AM](https://github.com/GBAJ-Fitness/Team-Agreement/assets/128838992/192767dc-f85f-4598-8801-4bf4384e2630)
+[Canva Wireframe for GBAJ Fitness](https://www.canva.com/design/DAFtKdc-_AU/oFuAiihcPc4cVkoUVmjk8g/view?utm_content=DAFtKdc-_AU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 ## User Story
 
